@@ -1,2 +1,0 @@
-# cloudpulse-portfolio
-company portfolio
